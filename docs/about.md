@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./icon.png" width="200" height="200" alt="q-warp">
+  <img src="https://raw.githubusercontent.com/FlipWind/QuantumWarp/refs/heads/main/assets/icon.png" width="200" height="200" alt="q-warp">
 </p>
 
 <div align="center">
