@@ -15,6 +15,8 @@ export default defineConfig({
     },
     cleanUrls: true,
 
+    ignoreDeadLinks: true,
+
     themeConfig: {
         search: {
             provider: 'local'
