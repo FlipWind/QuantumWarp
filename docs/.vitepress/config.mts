@@ -17,6 +17,11 @@ export default defineConfig({
 
     ignoreDeadLinks: true,
 
+    sitemap: {
+        hostname: 'https://quantum.iche.space',
+        lastmodDateOnly: false
+    },
+
     themeConfig: {
         search: {
             provider: 'local'
